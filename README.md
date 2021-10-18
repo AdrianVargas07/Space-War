@@ -1,4 +1,4 @@
-# **Space War
+# Space War
 
 Space War is a basic ship game with two levels, in which you seek to destroy a target in each level, developed for the Game Boy Advance embedded system.
 
